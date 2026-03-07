@@ -1,5 +1,5 @@
 # 💫 About Me:
-Recent grad (B.S; Honors) in Software Engineering, and first-generation graduate focused on building production-ready systems that find clarity in complexity. 
+Recent grad (B.S; Honors) in Software Engineering, focused on building production-ready systems that find clarity in complexity. 
 <br><br>While my background includes full-stack development, I am most passionate about it's applications in high-impact fields like biotechnology and quantum computing. 
 My goal is to engineer equitable, data-driven software, that contributes to positive global change.
 
